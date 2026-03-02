@@ -2,59 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://predict.surf/</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://predict.surf/privacy.html</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://predict.surf/blog/ocean-climate-predictions-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.surf/blog-best-surf-gear-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.surf/blog/wave-forecasting-prediction-markets.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.surf/blog-best-surfboards-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.surf/blog/surf-weather-predictions-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.surf/blog-predictions-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.surf/blog/surf-competition-predictions-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.surf/blog-sports-prediction-markets.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://predict.surf/blog/surfing-predictions-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
+    <loc>https://predict.surf/blog-surf-destinations-2026.html</loc>
+    <lastmod>2026-03-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://predict.surf/blog/best-surfing-destinations-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://predict.surf/blog/learn-to-surf-beginners-guide-2026.html</loc>
-    <lastmod>2026-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url><loc>https://predict.surf/blog/surfing-industry-growth-predictions-2030.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.surf/blog/wave-pool-technology-future-predictions.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://predict.surf/blog/surf-tourism-predictions-2026.html</loc><lastmod>2026-02-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
